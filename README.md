@@ -8,3 +8,4 @@ Ce n'est qu'une base pour votre projet, rien de plus.
 Pour consulter et modifier le code source, vous devrez utiliser Microsoft Visual Studio.
 Consultez les photos jointes pour avoir un aperçu du fonctionnement et de l'organisation de la source.
 
+<img alt="Shows" src="https://raw.githubusercontent.com/Users0101/BO6open/refs/heads/main/Capture%20d'%C3%A9cran%202024-11-27%20170427.png">
